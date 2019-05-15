@@ -24,10 +24,10 @@ cyan='\e[1;36m'
 red='\e[1;31m'
 
 echo -b "_____________________________________________________________"
-echo -b "Tools : TOOLS INSTALLER $green " |
-echo -b "AUTHOR : TUAN B4DUT $green " |
-echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " |
-echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |
-echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |
-echo -b "NOTE : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | 
+echo -b "Tools : TOOLS INSTALLER $green " 
+echo -b "AUTHOR : TUAN B4DUT $green " 
+echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " 
+echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " 
+echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " 
+echo -b "NOTE : JELAJAHI SETIAP TOOLS DENGAN BIJAK " 
 echo -b "_____________________________________________________________"
